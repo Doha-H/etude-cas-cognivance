@@ -10,7 +10,7 @@ L'application suit un flux de traitement en trois étapes :
 2. **Structuration par LLM :** Traitement du texte par **Mistral AI** pour corriger les termes techniques et générer une fiche de maintenance propre.
 3. **Assistant RAG :** Mise en place d'un système de recherche augmentée pour répondre aux questions spécifiques sur l'intervention.
 
-## Pile technologique
+## Stack technique
 
 | Composant                 | Technologie        |
 | :------------------------ | :----------------- |
