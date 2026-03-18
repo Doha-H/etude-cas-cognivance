@@ -1,4 +1,4 @@
-# Le scribe du technicien : pipeline IA de maintenance
+# Étude de cas : pipeline IA de maintenance
 
 Ce projet est un prototype de capture de savoir-faire industriel. Il permet de transformer un enregistrement audio brut en une fiche technique structurée et offre un assistant intelligent (**RAG**) pour interroger le contenu.
 
