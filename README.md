@@ -25,7 +25,7 @@ projet/
 │
 ├── chroma_db/          # Base vectorielle (générée automatiquement, persistante)
 ├── docker-compose.yml  # Orchestration des services
-├── .env                # Variables d'environnement (ne pas committer)
+├── .env                # Variables d'environnement
 └── .env.example        # Template pour .env
 ```
 
